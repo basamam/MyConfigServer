@@ -1,0 +1,2 @@
+# MyConfigServer
+first repository
